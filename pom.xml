@@ -14,6 +14,7 @@
         <module>spring-cloud-sleuth-demo</module>
         <module>spring-cloud-consul-demo</module>
         <module>spring-cloud-nacos-demo</module>
+        <module>spring-cloud-sentinel-demo</module>
     </modules>
 
 

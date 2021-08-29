@@ -1,3 +1,4 @@
+/*
 package com.iwill.nacos.sample.provider.service;
 
 import com.iwill.nacos.sample.api.IWorkService;
@@ -11,3 +12,4 @@ public class WorkServiceImpl implements IWorkService {
         return "homeworkd";
     }
 }
+*/
