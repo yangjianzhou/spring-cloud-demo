@@ -15,6 +15,10 @@
         <module>spring-cloud-consul-demo</module>
         <module>spring-cloud-nacos-demo</module>
         <module>spring-cloud-sentinel-demo</module>
+        <module>gateway-demo</module>
+        <module>gateway-demo/spring-cloud-gateway-demo</module>
+        <module>gateway-demo/zuul2.0-demo</module>
+        <module>gateway-demo/test-application</module>
     </modules>
 
 

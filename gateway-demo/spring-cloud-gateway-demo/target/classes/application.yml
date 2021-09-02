@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - predicates:
+            - Path=/gateway/**
+          filters:
+            - StripPrefix=1
+          uri: http://localhost:8090/test/hello
+
+server:
+  port: 8088
+logging:
+  level:
+    root: debug
