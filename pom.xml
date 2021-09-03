@@ -19,6 +19,7 @@
         <module>gateway-demo/spring-cloud-gateway-demo</module>
         <module>gateway-demo/zuul2.0-demo</module>
         <module>gateway-demo/test-application</module>
+        <module>spring-cloud-eureka-demo</module>
     </modules>
 
 
