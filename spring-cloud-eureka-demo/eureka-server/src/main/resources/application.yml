@@ -14,3 +14,6 @@ eureka:
   instance:
     #服务治理中心服务器ip
     hostname: 127.0.0.1
+logging:
+  level:
+    root: debug

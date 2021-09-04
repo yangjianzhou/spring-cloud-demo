@@ -16,3 +16,7 @@ spring:
 
   application:
     name: fund-eureka-client
+
+logging:
+  level:
+    root: debug

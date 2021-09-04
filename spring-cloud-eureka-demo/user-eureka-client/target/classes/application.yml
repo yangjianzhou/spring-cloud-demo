@@ -16,3 +16,7 @@ spring:
 
   application:
     name: user-eureka-client
+
+logging:
+  level:
+    root: debug
